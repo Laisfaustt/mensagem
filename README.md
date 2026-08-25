@@ -2,8 +2,8 @@
 
 # 🏖️ Tenda Mar - Experiência do Cliente
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andregreroski)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/greroskix)
+[![LinkedIn](https://www.linkedin.com/in/lais-faustino-a35b13300/)
+[![GitHub](https://github.com/Laisfaustt)
 
 *Uma landing page minimalista e sofisticada, projetada para transmitir a essência da marca Tenda Mar e guiar o cliente através de uma jornada de boas-vindas e aprendizado.*
 
@@ -49,6 +49,6 @@ O projeto foi desenvolvido focando em organização profissional e performance:
 
 <div align="center">
 
-**André Aparecido Alves Zanatta Greroski** *Técnico em Desenvolvimento de Sistemas*
+**Lais dos Santos Faustino**
 
 </div>
